@@ -1,1 +1,1 @@
-# Github-copilot-agent-note
+# GitHub copilot agent note
