@@ -8,3 +8,48 @@
 
 
 <img width="1272" height="759" alt="image" src="https://github.com/user-attachments/assets/ef86850f-0ce6-4b88-a75a-ac13d57df904" />
+
+
+# install BMad
+
+```
+npx bmad-method install
+```
+
+- BMad Core 
+- MBad Method Agile-AI
+- Mad Creative Intelligence
+- Test Architect
+
+
+
+
+
+/bmad-help 
+
+
+
+/bmad-create-brd
+
+
+
+```
+the only information in this repo is boilerplate, please treat this as a greenfield project
+```
+
+
+the workshop containt will be in the root folder 'raw' folder
+
+
+```
+/bmad-agent-quick-flow-solo-dev
+```
+
+```
+/bmad-agent-quick-flow-solo-dev i would like to create a tech spec to build a new skill that will be used to convert raw notes and save them to the content directory as well formed markdown files.
+
+```
+
+```
+/bmad-raw-notes-to-content please convert this raw note to quality
+```
