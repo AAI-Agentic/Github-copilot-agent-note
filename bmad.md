@@ -49,6 +49,8 @@ the workshop containt will be in the root folder 'raw' folder
 /bmad-agent-quick-flow-solo-dev i would like to create a tech spec to build a new skill that will be used to convert raw notes and save them to the content directory as well formed markdown files.
 
 ```
+<img width="385" height="269" alt="image" src="https://github.com/user-attachments/assets/c398692f-9fc7-4470-8858-7d4a429ba0f8" />
+
 
 ```
 /bmad-raw-notes-to-content please convert this raw note to quality
