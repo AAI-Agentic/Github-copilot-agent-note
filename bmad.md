@@ -55,3 +55,13 @@ the workshop containt will be in the root folder 'raw' folder
 ```
 /bmad-raw-notes-to-content please convert this raw note to quality
 ```
+
+----
+
+💡 Note: At any point you can invoke:
+
+- `bmad-party-mode` for multi-agent perspectives (PM, UX, Tech, Business Analyst debate your concept)
+- `bmad-advanced-elicitation` for deeper exploration techniques (first principles, pre-mortem, red team)
+
+
+
